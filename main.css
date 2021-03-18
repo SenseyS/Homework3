@@ -1,0 +1,22 @@
+.box{
+    border: gray solid 5px;
+    height: 200px;
+    margin: 10px;
+}
+
+.box2{
+    border: gray solid 5px;
+    margin: 10px;
+    height: 700px;
+}
+
+.box3{
+    border: gray solid 5px;
+    margin: 10px;
+    width: 400px;
+}
+
+.box4{
+    display: flex;
+
+}
