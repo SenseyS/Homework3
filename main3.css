@@ -1,0 +1,33 @@
+
+.six{
+    display: flex;
+
+}
+
+.down{
+    display: flex;
+}
+
+.box1{
+    height: 100px;
+    border: black solid 1px;
+    width: 530px ;
+    margin: 5px;
+    background: gray;
+}
+
+.box8{
+    height: 208px;
+    border: black solid 1px;
+    width: 200px;
+    margin-top: 5px;
+    background: blueviolet;
+}
+
+.box2{
+    height: 100px;
+    border: black solid 1px;
+    width: 100px;
+    margin: 5px;
+    background: green;
+}
